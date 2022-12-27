@@ -110,7 +110,7 @@ public class EsraZeynepDinç_S020780_Project3 {
     }
 
     public static void main(String[] args) {
-        TuringMachine tm = new TuringMachine("input.txt");
+        TuringMachine tm = new TuringMachine("Input_EsraZeynep_Dinç_S020780.txt");
         tm.simulate();
 
     }
